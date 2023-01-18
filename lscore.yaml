@@ -24,7 +24,7 @@ tasks:
   - action: connect_database
   - action: query_database
     file: ./tmp/qbcore/lscore.sql
-    
+
   # Clean up
   - action: remove_path
     path: ./tmp
