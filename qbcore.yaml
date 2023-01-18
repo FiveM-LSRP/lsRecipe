@@ -1,9 +1,9 @@
 $engine: 3
 $onesync: on
-name: QBCore Framework
-version: 2.2.4
-author: JericoFx & Kakarot & Hamy
-description: An advanced FiveM RP framework including jobs, gangs, housing & more!
+name: LSRPFramework
+version: 1.0
+author: bsk
+description: Yo!
 
 tasks:
   #  Download Base Files
