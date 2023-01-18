@@ -232,7 +232,7 @@ tasks:
     src: https://github.com/Project-Sloth/ps-walkingstyle 
     
   - action: download_github
-    dest: ./resources/[ls]/qb-management
+    dest: ./resources/[ls]/ls-management
     ref: main
     src: https://github.com/qbcore-framework/qb-management
 
@@ -295,7 +295,7 @@ tasks:
     src: https://github.com/qbcore-framework/qb-smallresources
 
   - action: download_github
-    dest: ./resources/[ls]/qb-cityservices
+    dest: ./resources/[ls]/ls-cityservices
     ref: main
     src: https://github.com/qbcore-framework/qb-cityhall
 
@@ -308,7 +308,7 @@ tasks:
     src: https://github.com/qbcore-framework/qb-keyminigame
 
   - action: download_github
-    dest: ./resources/[ls]/qb-commandbinds
+    dest: ./resources/[ls]/ls-commandbinds
     ref: main
     src: https://github.com/qbcore-framework/qb-commandbinding
 
