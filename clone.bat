@@ -23,7 +23,7 @@ git clone https://github.com/FiveM-LSRP/ls-hud   resources/[ls]/[ps]/ls-hud &&
 git clone https://github.com/FiveM-LSRP/ls-ui   resources/[ls]/[ps]/ls-ui &&
 git clone https://github.com/FiveM-LSRP/ls-mdt   resources/[ls]/[ps]/ls-mdt &&
 git clone https://github.com/FiveM-LSRP/ls-dispatch   resources/[ls]/[ps]/ls-dispatch &&
-git clone https://github.com/FiveM-LSRP/ls-drugprocessing   resources/[ls]/[ps]/ls-drugprocessing &&
+git clone https://github.com/FiveM-LSRP/ls-drugs   resources/[ls]/[ps]/ls-drugs &&
 git clone https://github.com/FiveM-LSRP/ls-buffs   resources/[ls]/[ps]/ls-buffs &&
 git clone https://github.com/FiveM-LSRP/ls-signrobbery   resources/[ls]/[ps]/ls-signrobbery &&
 git clone https://github.com/FiveM-LSRP/ls-walking   resources/[ls]/[ps]/ls-walking &&
