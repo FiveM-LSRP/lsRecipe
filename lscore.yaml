@@ -10,20 +10,24 @@ tasks:
   - action: download_github
     src: https://github.com/FiveM-LSRP/lsRecipe
     ref: main
-    dest: ./tmp/qbcore
+    dest: ./tmp/lscore
 
   - action: move_path
-    src: ./tmp/qbcore/server.cfg
+    src: ./tmp/lscore/server.cfg
     dest: ./server.cfg
 
   - action: move_path
-    src: ./tmp/qbcore/myLogo.png
+    src: ./tmp/lscore/ox.cfg
+    dest: ./ox.cfg
+
+  - action: move_path
+    src: ./tmp/lscore/myLogo.png
     dest: ./myLogo.png
 
   # Prepare Database
   - action: connect_database
   - action: query_database
-    file: ./tmp/qbcore/lscore.sql
+    file: ./tmp/lscore/lscore.sql
 
     # STANDALONE
   - action: download_github
