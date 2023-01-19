@@ -48,3 +48,4 @@ git clone https://github.com/FiveM-LSRP/ls-interior   resources/[ls]/ls-interior
 git clone https://github.com/FiveM-LSRP/ls-menu   resources/[ls]/ls-menu &&
 git clone https://github.com/FiveM-LSRP/ls-input   resources/[ls]/ls-input &&
 git clone https://github.com/FiveM-LSRP/ls-loading   resources/[ls]/ls-loading
+git clone https://github.com/FiveM-LSRP/ls-vehicle   resources/[ls]/ls-vehicle
